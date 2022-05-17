@@ -1,6 +1,8 @@
 Rencana Belajar 
 
 - HTML
+  * Structuring
 - CSS
+  * Posistion
 - CSS FRAMEWORK
 - JS
