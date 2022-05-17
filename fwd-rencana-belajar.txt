@@ -9,4 +9,5 @@ Rencana Belajar
   * Tailwind CSS
 - JS
   * Vue
+  * React
 - Python
