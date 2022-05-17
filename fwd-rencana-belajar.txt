@@ -6,4 +6,8 @@ Rencana Belajar
 - CSS
   * Posistion
 - CSS FRAMEWORK
+  * Tailwind CSS
 - JS
+  * Vue
+  * React
+- Python
