@@ -2,8 +2,10 @@ Rencana Belajar
 
 - HTML
   * Structuring
-  * Fundamental Boiler Plate 
-- CSS
+  * Fundamental Boiler Plate
+    > Skeleton Structure
+    > Draft Structure
   * Posistion
 - CSS FRAMEWORK
+  * Taiwind CSS
 - JS
